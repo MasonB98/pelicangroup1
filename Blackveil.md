@@ -2,7 +2,7 @@
 Date: February 11th, 2020  
 Category: Elder Dragons
 
-![alt](images/Velkhana1.png)
+![alt](images/Blackveil.png)
 
 Blackveil Vaal Hazak is a Large Monster in Monster Hunter World (MHW). 
 死を纏うヴァルハザク (shi wo matou vuaruhazaku) in Japanese. It is a variant of Vaal Hazak.
