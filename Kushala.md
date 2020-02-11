@@ -7,7 +7,7 @@ Category: Elder Dragons
 Kushala Daora is an Elder Dragon in Monster Hunter World (MHW). クシャルダオラ (鋼龍) in Japanese.
     
 **Found in**: Found in:  Ancient Forest, Elder's Recess         
-**Target of Quests**: 
+**Target of Quests**:           
 Kushala Daora   
 Dragon of Steel         
 A Portent of Disaster   
