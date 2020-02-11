@@ -25,5 +25,6 @@ Enjoy your hunt!
 * [Kirin](Kirin.md)
 * [Ruiner Nergigante](RuinerNergigante.md)
 * [Blackveil Vaal Hazak](Blackveil.md)
+* [Kushala Daora](Kushala.md)
   
 (Pictures thanks to Alex's buddy xxxiii)
