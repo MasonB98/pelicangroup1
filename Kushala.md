@@ -1,4 +1,4 @@
-# **Kushala Daora,**
+# **Kushala Daora**
 Date: February 11th, 2020  
 Category: Elder Dragons
 
