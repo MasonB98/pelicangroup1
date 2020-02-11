@@ -16,4 +16,5 @@ Blackveil Vaal Hazak is a Large Monster in Monster Hunter World (MHW).
 Fire (2)  
 Thunder (1)  
 Dragon (2)
+
 Ice(1)
