@@ -18,6 +18,7 @@ Enjoy your hunt!
 * [Banbaro](Banbaro.md)
 * [Fulgur Anjanath](FulgurAnjanath.md)
 * [Zinogre](Zinogre.md)
+* [Ebony Odogaron](Ebomy.md)
 
 ### **Elder Dragons**
 * [Velkhana](Velkhana.md)
