@@ -18,11 +18,13 @@ Enjoy your hunt!
 * [Banbaro](Banbaro.md)
 * [Fulgur Anjanath](FulgurAnjanath.md)
 * [Zinogre](Zinogre.md)
+* [Ebony Odogaron](Ebony.md)
 
 ### **Elder Dragons**
 * [Velkhana](Velkhana.md)
 * [Namielle](Namielle.md)
 * [Kirin](Kirin.md)
 * [Ruiner Nergigante](RuinerNergigante.md)
+* [Blackveil Vaal Hazak](Blackveil.md)
   
 (Pictures thanks to Alex's buddy xxxiii)
